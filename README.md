@@ -1,9 +1,9 @@
 # yeb-web
 
 #### 介绍
-云E办前端-https://gitee.com/hui13232653791/yeb-web
+云E办前端-https://github.com/hui13232653791/yeb-web
 
-云E办后端-https://gitee.com/hui13232653791/yeb-server
+云E办后端-https://github.com/hui13232653791/yeb-server
 
 #### 软件架构
 软件架构说明
